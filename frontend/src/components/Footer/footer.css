@@ -1,0 +1,86 @@
+/* Footer Styles */
+.main-footer {
+  background: #b1fcae;
+  color: #0f0d0d;
+  padding: 12px 0 0 0;
+  position: absolute;
+  left: 0;
+  bottom: -4.4rem;
+  height: 30.3vh;
+  width: 100%;
+  z-index: 100;
+  box-shadow: 0 0px 0px rgba(0, 0, 0, 0.1);
+
+}
+.light .main-footer{
+  background: #526e48;
+  color: #ffffff;
+}
+.light .main-footer h4{
+  color: #83f778;
+}
+
+
+.main-footer .container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.main-footer .row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.main-footer [class^="col-"] {
+  flex: 1 1 20%;
+  margin: 10px;
+  min-width: 180px;
+}
+
+.main-footer h4 {
+  font-size: 1.2rem;
+  margin-bottom: 15px;
+  color: #006aff;
+}
+
+.main-footer ul {
+  padding: 0;
+  list-style: none;
+}
+
+.main-footer ul li {
+  margin-bottom: 8px;
+  font-size: 1rem;
+}
+
+
+@media (max-width: 768px) {
+  .main-footer .row {
+    flex-direction: column;
+    align-items: center;
+
+  }
+  .main-footer [class^="col-"] {
+    min-width: 220px;
+    max-width: 300px;
+    margin: 15px 0;
+  }
+}
+
+body {
+  margin: 0;
+  padding-bottom: 100px; /* Prevent content from being hidden behind the footer */
+  box-sizing: border-box;
+}
+.list-unstyled a{
+  text-decoration: none;
+  color: inherit;
+
+}
+
+.list-unstyled a:hover{
+  text-decoration: none;
+  color: #0db7ce;
+
+}
