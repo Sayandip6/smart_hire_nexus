@@ -1,4 +1,4 @@
-# 🚀 MERN Stack Job Portal
+# 🚀 Smart Hire Nexus
 
 A full-stack, enterprise-grade job portal application built with the MERN stack (MongoDB, Express.js, React, Node.js). This comprehensive platform provides a complete solution for job posting, application management, user authentication, and company profiles with both a robust backend API and a modern React frontend.
 
@@ -352,9 +352,9 @@ We welcome contributions! Check out our [Contributing Guidelines](#contributing)
 
 ## 📞 Support & Contact
 
-- **📧 Email:** [supradiproy737@gmail.com](mailto:supradiproy737@gmail.com)
-- **🐛 Issues:** [GitHub Issues](https://github.com/CosmicRick/mern_stack_project/issues)
-- **💬 Discussions:** [GitHub Discussions](https://github.com/CosmicRick/mern_stack_project/discussions)
+- **📧 Email:** [sayandipnskrar.gmail.com](mailto:sayandipnskrar.gmail.com)
+- **🐛 Issues:** [GitHub Issues](https://github.com/Sayandip6/smart_hire_nexus/issues)
+- **💬 Discussions:** [GitHub Discussions](https://github.com/Sayandip6/smart_hire_nexus/discussions)
 - **📱 Social:** Follow us for updates and announcements
 
 ---
@@ -377,6 +377,7 @@ If this project helped you, please consider giving it a **⭐ star** on GitHub!
 
 **Made with ❤️ by the MERN Stack Team**
 
-[⬆ Back to Top](#-mern-stack-job-portal)
+[⬆ Back to Top](#-smart-hire-nexus)
 
 </div>
+
